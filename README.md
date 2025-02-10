@@ -52,12 +52,11 @@ Untuk sekarang, mulai saja dulu dengan [Object Oriented Programming](object_orie
 
 Jika kalian sudah menguasai dasar - dasar pemograman beserta dengan paradigma _Object Oriented Programming_, kalian bisa langsung mengeksplorasi topik - topik lain yang jauh lebih menantang dan tidak kalah seru. Di repositori ini, kami telah menyiapkan beberapa topik yang mungkin kamu suka.
 
-1.  [Struktur Data](/struktur_data)
+1.  [Struktur Data Coming Soon](/struktur_data)
 
 ## ⚡ Quick Access ⚡
 
 Semua _script_ yang ada pada repositori ini, dapat diakses dengan cepat lewat link berikut:
 
 - [Basic](Basic/README.md)
-- [Algoritma](algorithm)
-- [Struktur Data](/struktur_data)
+- [Object Oriented Programming](/object_oriented)
